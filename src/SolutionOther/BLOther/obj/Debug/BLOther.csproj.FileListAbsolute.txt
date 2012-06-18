@@ -1,0 +1,5 @@
+D:\Project\otherwebgit\src\SolutionOther\BLOther\bin\Debug\BLOther.dll
+D:\Project\otherwebgit\src\SolutionOther\BLOther\bin\Debug\BLOther.pdb
+D:\Project\otherwebgit\src\SolutionOther\BLOther\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\otherwebgit\src\SolutionOther\BLOther\obj\Debug\BLOther.dll
+D:\Project\otherwebgit\src\SolutionOther\BLOther\obj\Debug\BLOther.pdb

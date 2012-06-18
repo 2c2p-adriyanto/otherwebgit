@@ -1,0 +1,7 @@
+D:\Project\otherwebgit\src\SolutionOther\WebOther\bin\WebOther.dll
+D:\Project\otherwebgit\src\SolutionOther\WebOther\bin\WebOther.pdb
+D:\Project\otherwebgit\src\SolutionOther\WebOther\obj\Debug\ResolveAssemblyReference.cache
+D:\Project\otherwebgit\src\SolutionOther\WebOther\obj\Debug\WebOther.dll
+D:\Project\otherwebgit\src\SolutionOther\WebOther\obj\Debug\WebOther.pdb
+D:\Project\otherwebgit\src\SolutionOther\WebOther\bin\BLOther.dll
+D:\Project\otherwebgit\src\SolutionOther\WebOther\bin\BLOther.pdb
